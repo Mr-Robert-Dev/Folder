@@ -6,7 +6,7 @@
         // Cria um elemento de âncora (link) temporário
         var link = document.createElement('a');
         link.href = arquivoUrl;
-        link.download = 'folder'; // Substitua pelo nome desejado do arquivo
+        link.download = 'SEU FOLDER'; // Substitua pelo nome desejado do arquivo
 
         // Adiciona o link ao corpo da página
         document.body.appendChild(link);
