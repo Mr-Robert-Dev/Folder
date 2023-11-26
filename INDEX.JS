@@ -1,7 +1,7 @@
 
     function baixar() {
         // Substitua 'caminho/do/seu/arquivo' pelo caminho real do seu arquivo
-        var arquivoUrl = 'folder.pdf';
+        var arquivoUrl = 'FOLDER.pdf';
         
         // Cria um elemento de âncora (link) temporário
         var link = document.createElement('a');
