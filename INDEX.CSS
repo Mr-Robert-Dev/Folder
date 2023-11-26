@@ -61,9 +61,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
     animation: gradient 25s ease infinite;}
 
 button{
-    height: 10rem;
-    width: 26rem;
-    font-size: 4rem;
+    height: 5rem;
+        width: 13rem;
+        font-size: 2rem;
 }
 
 button {
